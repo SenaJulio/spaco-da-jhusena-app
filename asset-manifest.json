@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spaco-da-jhusena-app/static/css/main.9b06fc2c.css",
-    "main.js": "/spaco-da-jhusena-app/static/js/main.b3251dec.js",
+    "main.css": "/spaco-da-jhusena-app/static/css/main.32be6e6f.css",
+    "main.js": "/spaco-da-jhusena-app/static/js/main.c89f078e.js",
     "static/js/453.e098421e.chunk.js": "/spaco-da-jhusena-app/static/js/453.e098421e.chunk.js",
     "index.html": "/spaco-da-jhusena-app/index.html",
-    "main.9b06fc2c.css.map": "/spaco-da-jhusena-app/static/css/main.9b06fc2c.css.map",
-    "main.b3251dec.js.map": "/spaco-da-jhusena-app/static/js/main.b3251dec.js.map",
+    "main.32be6e6f.css.map": "/spaco-da-jhusena-app/static/css/main.32be6e6f.css.map",
+    "main.c89f078e.js.map": "/spaco-da-jhusena-app/static/js/main.c89f078e.js.map",
     "453.e098421e.chunk.js.map": "/spaco-da-jhusena-app/static/js/453.e098421e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b06fc2c.css",
-    "static/js/main.b3251dec.js"
+    "static/css/main.32be6e6f.css",
+    "static/js/main.c89f078e.js"
   ]
 }
